@@ -9,6 +9,7 @@
 # FAQ
 
 Q:Why does nothing pop up when i open MioCleaner?
+
 A:Disable your AntiVirus and then try to open MioCleaner with admin privileges.
 
 Q:Why do i get an error while installing MioCleaner?
