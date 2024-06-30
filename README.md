@@ -50,7 +50,7 @@
 ## FAQ
 
 **Q1: Is MioCleaner free?**
-- Yes, MioCleaner offers a free version with basic features. A premium version with advanced features is available for purchase.
+- Yes, MioCleaner offers a free version with basic features. A premium version with advanced features is available for purchase in the future.
 
 **Q2: How often should I run MioCleaner?**
 - For optimal performance, we recommend running MioCleaner at least once a week.
