@@ -1,6 +1,10 @@
 # MioCleaner
 
 
+![Logoo](https://github.com/WA-10/MioCleaner/assets/154737875/22b3dd4d-5236-43ab-9c31-5b18c918a789)
+
+
+
 **MioCleaner** is a powerful PC optimization tool designed to enhance system performance, clean junk files, and protect your privacy. With features like real-time optimization, disk defragmentation, and secure file deletion, MioCleaner ensures your PC runs smoothly and efficiently.
 
 ## Features
